@@ -1,0 +1,1 @@
+C:\Users\Brandon\AndroidStudioProjects\Scholarly\build\app\intermediates\cxx\RelWithDebInfo\6v362h4i\obj\x86_64

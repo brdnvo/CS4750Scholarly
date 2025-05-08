@@ -1,0 +1,2 @@
+C:/Users/Brandon/AndroidStudioProjects/Scholarly/android/app/.cxx/Debug/1uk1m432/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Brandon/AndroidStudioProjects/Scholarly/android/app/.cxx/Debug/1uk1m432/x86_64/CMakeFiles/rebuild_cache.dir
