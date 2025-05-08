@@ -1,16 +1,5 @@
 # CS4750Project
+This is a flashcard application created by Brandon Vo. This app is currently featured on Google Play and requires Android version 6.0 and up to download.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Description
+Boost your learning with our powerful flashcard app designed to help you memorize faster and retain information longer. Whether you're preparing for exams, learning a new language, or just want to master new skills, our intuitive interface and smart study features make studying simple and effective.
